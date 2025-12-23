@@ -11,4 +11,4 @@ Program Penilaian Mahasiswa berbasis Web menggunakan PHP.
 1. Simpan file di folder htdocs
 2. Jalankan Apache di XAMPP
 3. Akses melalui browser:
-   http://localhost/nama_folder/polos.php
+   http://localhost/laporan_4/polos.php
